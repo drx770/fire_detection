@@ -18,6 +18,12 @@ python classify/val.py --weights runs/train-cls/exp1/weights/best.pt --data ../D
 
 ```
 
+## Classify one image
+
+```
+python classify/predict.py --weights runs/train-cls/exp1/weights/best.pt --source $TEST_IMAGE_PATH
+```
+
 ## Results
 ![Results](https://github.com/drx770/fire_detection/blob/main/result.png)
 
