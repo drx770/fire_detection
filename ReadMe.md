@@ -8,7 +8,7 @@ pip install -r requirements.txt  # install
 ```
 
 ## Datasets
-- Download [here](https://drive.google.com/file/d/1L2HsROH0Zt_0wJC21cEC-92CVxE0T_k-/view?usp=sharing).
+- Download [here](https://drive.google.com/file/d/1klIBKVx0eFteGuo8skYaT--wVR48mcY2/view?usp=sharing).
 - Unzip it and put it into "Datasets" folder (e.g. /Datasets/Fire_Default/).
 
 ## Testing code
