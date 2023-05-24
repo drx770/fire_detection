@@ -18,7 +18,7 @@ python classify/val.py --weights runs/train-cls/exp1/weights/best.pt --data ../D
 
 ```
 
-## Classify one image
+## Predict
 
 ```
 python classify/predict.py --weights runs/train-cls/exp1/weights/best.pt --source $TEST_IMAGE_PATH
