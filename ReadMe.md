@@ -11,7 +11,7 @@ pip install -r requirements.txt  # install
 - Download [here](https://drive.google.com/file/d/1klIBKVx0eFteGuo8skYaT--wVR48mcY2/view?usp=sharing).
 - Unzip it and put it into "Datasets" folder (e.g. /Datasets/Fire_Default/).
 
-## Testing code
+## Test code
 To use the pretrained model, run the codes as follows:
 ```
 python classify/val.py --weights runs/train-cls/exp1/weights/best.pt --data ../Datasets/Fire_Default
